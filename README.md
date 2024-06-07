@@ -2,6 +2,7 @@
 
 A Leiningen plugin to do many wonderful things with jank.
 
+> NOTE: Moved to Jank's official [monorepo](https://github.com/jank-lang/jank/tree/main/lein-jank)
 ## Usage
 
 Clone this repository. Execute `lein install` in the repository root.
